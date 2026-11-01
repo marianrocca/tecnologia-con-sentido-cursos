@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "IA con sentido",
+    "descripcion": "Inteligencia artificial aplicada a la enseñanza.",
+    "precio": 29000,
+    "duracion": "4 semanas",
+    "categoria": "Inteligencia Artificial",
+    "imagen": "https://i.ibb.co/dw1mtrqJ/ia-con-sentido.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Programación creativa con Scratch",
+    "descripcion": "Aprendé a crear proyectos interactivos para el aula.",
+    "precio": 24000,
+    "duracion": "6 semanas",
+    "categoria": "Programación",
+    "imagen": "https://i.ibb.co/KpLQfN17/scratch.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Primeros pasos con Micro:bit",
+    "descripcion": "Introducción a la robótica educativa.",
+    "precio": 26000,
+    "duracion": "5 semanas",
+    "categoria": "Robótica",
+    "imagen": "https://i.ibb.co/YT8MXDxH/microbit.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Ciudadanía digital en el aula",
+    "descripcion": "Estrategias para enseñar ciudadanía digital.",
+    "precio": 22000,
+    "duracion": "4 semanas",
+    "categoria": "Ciudadanía Digital",
+    "imagen": "https://i.ibb.co/5XGhry6z/ciudadania-digital.png"
+  }
+]
